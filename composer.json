@@ -1,0 +1,18 @@
+{
+  "name": "jsuhoversnik/355/guestbook",
+  "authors": [
+    {
+      "name": "Jake Suhoversnik",
+      "email": "jsuhoversnik@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["model/"]
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6"
+  }
+}
